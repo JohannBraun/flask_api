@@ -1,3 +1,4 @@
+# A task organizer with no data. It is used to store data in the database for testing purposes
 from task_organizer.app import db
 
 class Task(db.Model):
